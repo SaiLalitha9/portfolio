@@ -54,6 +54,7 @@ const Home = () => {
           >
             View Projects
           </a>
+          <p>Scroll to know more!!</p>
         </div>
       </section>
 
